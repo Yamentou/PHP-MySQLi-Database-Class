@@ -1,33 +1,5 @@
 MysqliDb -- Simple MySQLi wrapper and object mapper with prepared statements
 <hr>
-### Table of Contents
-**[Initialization](#initialization)**  
-**[Objects mapping](#objects-mapping)**  
-**[Insert Query](#insert-query)**  
-**[Update Query](#update-query)**  
-**[Select Query](#select-query)**  
-**[Delete Query](#delete-query)**  
-**[Running raw SQL queries](#running-raw-sql-queries)**  
-**[Query Keywords](#query-keywords)**  
-**[Where Conditions](#where--having-methods)**  
-**[Order Conditions](#ordering-method)**  
-**[Group Conditions](#grouping-method)**  
-**[Properties Sharing](#properties-sharing)**  
-**[Joining Tables](#join-method)**  
-**[Subqueries](#subqueries)**  
-**[EXISTS / NOT EXISTS condition](#exists--not-exists-condition)**  
-**[Has method](#has-method)**  
-**[Helper Methods](#helper-methods)**  
-**[Transaction Helpers](#transaction-helpers)**  
-**[Error Helpers](#error-helpers)**
-
-## Support Me
-
-This software is developed during my free time and I will be glad if somebody will support me.
-
-Everyone's time should be valuable, so please consider donating.
-
-[Donate with paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=a%2ebutenka%40gmail%2ecom&lc=DO&item_name=mysqlidb&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
 ### Installation
 To utilize this class, first import MysqliDb.php into your project, and require it.
